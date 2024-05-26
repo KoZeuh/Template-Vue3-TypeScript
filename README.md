@@ -99,8 +99,8 @@ frontend/
 1. Clone the repository:
 
    ```
-   git clone https://github.com/KoZeuh/Template-VueJS3.git
-   cd Template-VueJS3
+   git clone https://github.com/KoZeuh/Template-Vue3-TypeScript.git
+   cd Template-Vue3-TypeScript
    ```
 
 2. Install the dependencies:
